@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fasahath
 - 👀 I’m interested in engineering machine learning solutions
-- 🌱 I’m currently learning reinforcement learning
-- 💞️ I’m looking to collaborate on : building a super cool ML use case
+- 🌱 I’m currently learning reinforcement -2
+- 💞️ I’m looking to collaborate on : building a super cool use case
 - 📫 How to reach me : md.fasahath@gmail.com
 
 <!---
